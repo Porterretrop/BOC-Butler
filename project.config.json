@@ -48,6 +48,8 @@
     },
     "scripts": {},
     "isGameTourist": false,
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
     "condition": {
         "search": {
             "list": []
@@ -67,5 +69,7 @@
         "miniprogram": {
             "list": []
         }
-    }
+    },
+    "cloudfunctionRoot": "cloudfunctions/",
+    "miniprogramRoot":"miniprogram/"
 }
